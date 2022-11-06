@@ -43,4 +43,27 @@ void selection_sort(int *array, size_t size);
 /*quick sort*/
 void quick_sort(int *array, size_t size);
 
+/*shell sort*/
+void shell_sort(int *array, size_t size);
+
+/* Cocktail shaker sort*/
+void cocktail_sort_list(listint_t **list);
+
+/*counting sort*/
+void counting_sort(int *array, size_t size);
+
+/*merge sort*/
+void merge_sort(int *array, size_t size);
+
+/*heap sort*/
+void heap_sort(int *array, size_t size);
+
+/*radix sort*/
+void radix_sort(int *array, size_t size);
+
+/*bitonic sort*/
+void bitonic_sort(int *array, size_t size);
+
+/*quick sort using hoare partition*/
+void quick_sort_hoare(int *array, size_t size);
 #endif
