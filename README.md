@@ -69,6 +69,10 @@ Function Prototype:
 | ------------------ | ------------------------------------- |
 | `1000-deck_node.c` | `void sort_deck(deck_node_t **deck);` |
 
+## Testing Files
+
+- **[Test Functions Directory](https://github.com/iankisali/sorting_algorithms/tree/master/Test%20Functions)** contains `main.c` files for testing each sorting algorithm.
+
 ## Tasks:
 
 - **0. Bubble sort**
